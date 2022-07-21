@@ -7,9 +7,9 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor SkyBotz", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata SkyBotz", rowId: ".biodata"},
-	{title: "🌎 • Script yang SkyBotz gunakan", rowId: ".sc"},
+	    {title: "📱 • Nomor NissaBotz", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata NissaBotz", rowId: ".biodata"},
+	{title: "🌎 • Script yang NissaBotz gunakan", rowId: ".sc"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
