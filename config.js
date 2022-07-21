@@ -370,7 +370,7 @@ global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'//Your Website
 global.logo = "https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z"//Link Group whatsapp
+global.gcwangsaf = "https://chat.whatsapp.com/CWvL3sXIBPV1urCTauDTPZ"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/owneryusuf"// website saweria.co
