@@ -6,12 +6,12 @@ import moment from 'moment-timezone'
 
 /**Oᴡɴᴇʀ number**/
 global.owner = [
-  ['62895347198105', '️Oᴡɴᴇʀ Sky-MD', true]
+  ['6281387089252', '️Maulana Yusuf', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['62895347198105'] // Want some help?
-global.prems = ['62895347198105'] // Premium user has unlimited limit
-global.girlfren = ['62895347198105'] // Your gf/pacar
+global.mods = ['6281387089252'] // Want some help?
+global.prems = ['6281387089252'] // Premium user has unlimited limit
+global.girlfren = ['6281387089252'] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -63,15 +63,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105'
-global.namebot = '↻Sky-𝕸𝕯'
-global.nameown = 'ARIF XZ ✰'
+global.nomorbot = '6283199789390'
+global.nomorown = '6281387089252'
+global.namebot = '↻Nissa-𝕸𝕯'
+global.nameown = 'Maulana Yusuf ✰'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sky-𝕸𝕯 あ⁩ 」' //Main Watermark
+global.wm = '                「 Nissa-𝕸𝕯 あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ↻SKY-𝕸𝕯'
+global.wm3 = '⫹⫺ ↻Nissa-𝕸𝕯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -99,11 +99,11 @@ global.thumbnailUrl = [
 ]
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/arifzyn19_'
-global.sgh = 'https://github.com/ArifXZ'
-global.sgc = 'https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z'
-global.sdc = 'https://github.com/ArifXZ'
-global.snh = 'https://github.com/ArifXZ'
+global.sig = 'https://instagram.com/maulana_yusuf.id'
+global.sgh = 'https://github.com/nisabot'
+global.sgc = 'https://chat.whatsapp.com/CWvL3sXIBPV1urCTauDTPZ'
+global.sdc = 'https://www.facebook.com/maulanayusuf001'
+global.snh = 'https://194.233.66.232/'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -359,9 +359,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `↻Sky-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `↻Nissa-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = "ARIF XZ ✰"
+global.author = "Maulana Yusuf XZ ✰"
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
@@ -373,20 +373,20 @@ global.logo = "https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = "https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/aldashakila"// website saweria.co
-global.dana = ["0895347198105"]
-global.pulsa = ["089636219593"]//pulsa here
-global.trakteer = "--"//Link url https://
-global.paypal = "aldashakila23@gmail.com"//paypal email
-global.gopay = "089636219593"//Numver for Payment digital Gopay Gojek
+global.saweria = "https://saweria.co/owneryusuf"// website saweria.co
+global.dana = ["0895622463636"]
+global.pulsa = ["081387089252"]//pulsa here
+global.trakteer = "https://trakteer.id/botannisa"//Link url https://
+global.paypal = "-"//paypal email
+global.gopay = "083199789390"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895347198105'
-global.povo = '0895347198105'
-global.pgopay = '089636219593'
-global.ppulsa = '089636219593'
-global.ppulsa2 = '0895347198105'
-global.psaweria = 'https://saweria.com/aldashakila'
+global.pdana = '0895622463636'
+global.povo = '083199789390'
+global.pgopay = '083199789390'
+global.ppulsa = '081387089252'
+global.ppulsa2 = '083199789390'
+global.psaweria = 'https://saweria.co/owneryusuf'
 
 //Rpg
 global.rpg = {
